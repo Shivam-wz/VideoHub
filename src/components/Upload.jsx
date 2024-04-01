@@ -26,7 +26,7 @@ const Upload = () => {
               }}
             />
             <Button colorScheme={'purple'} type={'submit'}>
-              Upload
+              Uploa
             </Button>
           </HStack>
         </form>
